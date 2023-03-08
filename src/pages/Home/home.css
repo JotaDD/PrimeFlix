@@ -46,3 +46,12 @@
   color: #116feb;
   transition: 1.5s;
 }
+
+
+.loading{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 14px;
+  
+}
