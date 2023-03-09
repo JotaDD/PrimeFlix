@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <header>
       <Link  className='logo' to='./'>Prime Flix</Link>
-      <Link className='favoritos' to='./favoritos'>Meus Favoritos</Link>
+      <Link className='favoritos' to='./favoritos'>Meus Filmes</Link>
       
       <Link to='./filmes/{id}'>Meus Filmes</Link>
     </header>
