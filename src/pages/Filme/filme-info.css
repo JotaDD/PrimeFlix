@@ -3,7 +3,7 @@
   margin-top: 18px;
   display: flex;
   flex-direction: column;
-  max-width: 800px;
+  max-width: 850px;
   padding: 0 8px;
 
 }
@@ -14,7 +14,7 @@
 
 .filme-info img {
   border-radius: 8px;
-  width: 900px;
+  width: 850px;
   max-width: 100%;
   max-height: 340px;
   object-fit: cover;
